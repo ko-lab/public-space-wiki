@@ -2,7 +2,7 @@
 Here in the directory lasercut files for K40 Whisperer software.
 
 ## Lasercut SVG Files
-Front Top | Front Mid with spacers (only 2 needed)| Back
+Front Top | Front Mid  - with spacers for Back (only spacers 2 needed, 2 reserve)| Back
 :-------------------------:|:-------------------------:|:-------------------------:
 ![Front Top SVG](Front%20plate%20badge%20top.svg)|  ![Front Mid SVG](Front%20plate%20badge%20mid.svg) | ![Back SVG](Back%20plate%20badge.svg)
 
