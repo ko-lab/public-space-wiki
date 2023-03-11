@@ -1,2 +1,1 @@
-# Space Door Handle
-This directory contains the design and print files for the door handle in the Space that we had at the Potterijstraat 
+This dir contains the files for the 3D printable doorhandle
